@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? <a href="https://www.facebook.com/lutrezehuejacinto.16/">Follow me on Facebook!</a>
+- 📫 How to reach me? <a href="https://www.facebook.com/lutrezehuejacinto.16/">Follow me on Facebook!</a><br>
                        <a href="https://www.instagram.com/lutrezehuejacinto_/">Follow me on Instagram!</a>
 
 <!---
